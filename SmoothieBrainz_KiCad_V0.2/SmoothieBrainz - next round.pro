@@ -1,4 +1,4 @@
-update=Mon 16 Feb 2015 06:37:24 AM PST
+update=9/01/2017 8:21:33 p.m.
 version=1
 last_client=kicad
 [pcbnew]
@@ -30,3 +30,9 @@ version=1
 LibDir=
 [eeschema/libraries]
 LibName1=SmoothieBrainz - next round
+LibName2=power
+LibName3=Oscillators
+LibName4=logo
+LibName5=device
+LibName6=SmoothieBrainz - next round-cache
+LibName7=SmoothieBrainz - next round PWR

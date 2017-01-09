@@ -1,676 +1,800 @@
-Info: Reading netlist file "/home/aaron/eagle/Smo_Convert/kicad_files/SmoothieBrainz - next round.net".
+Info: Reading netlist file "C:\Users\aaron.keith\Documents\CAD\Smoothieboards\Smoothiebrainz\SmoothieBrainz_KiCad_V0.2\SmoothieBrainz - next round.net".
 
 Info: Using references to match components and footprints.
 
-* Warning: component 'VP_4': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+* Warning: component 'VP_1': board footprint 'VPAC0', netlist footprint 'SmoothieBrainz - next round:VPAD_VPAC0'
 
-* Warning: component 'VP_3': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+* Warning: component 'VP_0': board footprint 'VPAC0', netlist footprint 'SmoothieBrainz - next round:VPAD_VPAC0'
 
-* Warning: component 'VP_2': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+* Warning: component 'VP_2': board footprint 'VPAC0', netlist footprint 'SmoothieBrainz - next round:VPAD_VPAC0'
 
-* Warning: component 'VP_0': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+* Warning: component 'VP_3': board footprint 'VPAC0', netlist footprint 'SmoothieBrainz - next round:VPAD_VPAC0'
 
-* Warning: component 'VP_1': board footprint 'VPAC0', netlist footprint 'VPAD_VPAC0'
+* Warning: component 'VP_4': board footprint 'VPAC0', netlist footprint 'SmoothieBrainz - next round:VPAD_VPAC0'
 
-* Warning: component 'IC5': board footprint 'DPACK', netlist footprint 'V-REG_DPACK'
+* Warning: component 'IC5': board footprint 'DPACK', netlist footprint 'SmoothieBrainz - next round:V-REG_DPACK'
 
-* Warning: component 'Q1': board footprint 'SC74_INFINEON', netlist footprint 'TRANSISTOR-FET_SC74_INFINEON'
+* Warning: component 'Q1': board footprint 'SC74_INFINEON', netlist footprint 'SmoothieBrainz - next round:TRANSISTOR-FET_SC74_INFINEON'
 
-* Warning: component 'U2': board footprint 'BLUETOOTH_SMD', netlist footprint 'SERIALPORTBLUETOOTH_BLUETOOTH_SMD'
+* Warning: component 'U2': board footprint 'BLUETOOTH_SMD', netlist footprint 'SmoothieBrainz - next round:SERIALPORTBLUETOOTH_BLUETOOTH_SMD'
 
-* Warning: component 'JP2': board footprint '1X30', netlist footprint 'PINHEAD_1X30'
+* Warning: component 'JP2': board footprint '1X30', netlist footprint 'SmoothieBrainz - next round:PINHEAD_1X30'
 
-* Warning: component 'IC7': board footprint 'SOT23-5', netlist footprint 'MICROBUILDER_SOT23-5'
+* Warning: component 'IC7': board footprint 'SOT23-5', netlist footprint 'SmoothieBrainz - next round:MICROBUILDER_SOT23-5'
 
-* Warning: component 'IC1': board footprint 'LQFP100', netlist footprint 'MICROBUILDER_LQFP100'
+* Warning: component 'IC1': board footprint 'LQFP100', netlist footprint 'SmoothieBrainz - next round:MICROBUILDER_LQFP100'
 
-* Warning: component 'IC2': board footprint 'TO263-5', netlist footprint 'LINEAR_TO263-5'
+* Warning: component 'IC2': board footprint 'TO263-5', netlist footprint 'SmoothieBrainz - next round:LINEAR_TO263-5'
 
-* Warning: component 'X1': board footprint 'MC1.5%2f6-G-3.81', netlist footprint 'JT-CON-PHOENIX-3.81_MC1.5_6-G-3.81'
+* Warning: component 'X1': board footprint 'MC1.5%2f6-G-3.81', netlist footprint 'SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_6-G-3.81'
 
-* Warning: component 'YMN88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
+* Warning: component 'XMN88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
 
-* Warning: component 'XMX88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
+* Warning: component 'XMX88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
 
-* Warning: component 'ZMX88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
+* Warning: component 'YMN88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
 
-* Warning: component 'YMX88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
+* Warning: component 'YMX88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
 
-* Warning: component 'ZMN88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
+* Warning: component 'ZMN88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
 
-* Warning: component 'XMN88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
+* Warning: component 'ZMX88': board footprint 'MC1.5%2f3-G-3.81', netlist footprint 'SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81'
 
-* Warning: component 'U$2': board footprint 'ESP8266-ESP12', netlist footprint 'ESP8266-ESP12_ESP8266-ESP12'
+* Warning: component 'U$2': board footprint 'ESP8266-ESP12', netlist footprint 'SmoothieBrainz - next round:ESP8266-ESP12_ESP8266-ESP12'
 
-* Warning: component 'SW3': board footprint 'SW_TACT_STANDARD_RIGHT_ANGLE', netlist footprint 'DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE'
+* Warning: component 'SW1': board footprint 'SW_TACT_STANDARD_RIGHT_ANGLE', netlist footprint 'SmoothieBrainz - next round:DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE'
 
-* Warning: component 'SW1': board footprint 'SW_TACT_STANDARD_RIGHT_ANGLE', netlist footprint 'DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE'
+* Warning: component 'SW3': board footprint 'SW_TACT_STANDARD_RIGHT_ANGLE', netlist footprint 'SmoothieBrainz - next round:DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE'
 
-* Warning: component 'EXP2': board footprint 'PAK100%2f2500-10', netlist footprint 'CON-3M_PAK100_2500-10'
+* Warning: component 'EXP2': board footprint 'PAK100%2f2500-10', netlist footprint 'SmoothieBrainz - next round:CON-3M_PAK100_2500-10'
 
-* Warning: component 'EXP1': board footprint 'PAK100%2f2500-10', netlist footprint 'CON-3M_PAK100_2500-10'
+* Warning: component 'EXP1': board footprint 'PAK100%2f2500-10', netlist footprint 'SmoothieBrainz - next round:CON-3M_PAK100_2500-10'
 
-Info: Checking netlist component footprint "EXP1:/58523845:CON-3M_PAK100_2500-10".
+* Warning: component 'X14': board footprint 'USB-B-PTH', netlist footprint 'SPARKFUN_USB-B-PTH'
 
-Info: Changing component path "EXP1:" to "/58523845".
+* Warning: component 'S2': board footprint 'TACTILE_SWITCH_SMD', netlist footprint 'SPARKFUN_TACTILE_SWITCH_SMD'
 
-Changing component "EXP1:/58523845" pin "1" net name from "BUZZER-RRD" to "/BUZZER-RRD".
+* Warning: component 'S1': board footprint 'TACTILE_SWITCH_SMD', netlist footprint 'SPARKFUN_TACTILE_SWITCH_SMD'
 
-Changing component "EXP1:/58523845" pin "2" net name from "P1_30_CLICK-ON-RRD" to "/P1_30_CLICK-ON-RRD".
+* Warning: component 'SJ1': board footprint 'SJ_3', netlist footprint 'SPARKFUN_SJ_3'
 
-Changing component "EXP1:/58523845" pin "3" net name from "MOSI1" to "/MOSI1".
+* Warning: component 'L1': board footprint '0603', netlist footprint 'SPARKFUN_0603'
 
-Changing component "EXP1:/58523845" pin "4" net name from "SSEL1" to "/SSEL1".
+* Warning: component 'SJ2': board footprint 'SJ_2S', netlist footprint 'SPARKFUN-RETIRED_SJ_2S'
 
-Changing component "EXP1:/58523845" pin "5" net name from "SCK1" to "/SCK1".
+* Warning: component 'SJ3': board footprint 'SJ_2S', netlist footprint 'SPARKFUN-RETIRED_SJ_2S'
 
-Changing component "EXP1:/58523845" pin "6" net name from "" to "Net-(EXP1-Pad6)".
+* Warning: component 'SJ7': board footprint 'SJ_2S', netlist footprint 'SPARKFUN-RETIRED_SJ_2S'
 
-Changing component "EXP1:/58523845" pin "7" net name from "" to "Net-(EXP1-Pad7)".
+* Warning: component 'SJ6': board footprint 'SJ_2S', netlist footprint 'SPARKFUN-RETIRED_SJ_2S'
 
-Changing component "EXP1:/58523845" pin "8" net name from "" to "Net-(EXP1-Pad8)".
+* Warning: component 'SJ5': board footprint 'SJ_2S', netlist footprint 'SPARKFUN-RETIRED_SJ_2S'
 
-Changing component "EXP1:/58523845" pin "9" net name from "GND" to "/GND".
+* Warning: component 'SJ4': board footprint 'SJ_2S', netlist footprint 'SPARKFUN-RETIRED_SJ_2S'
 
-Info: Checking netlist component footprint "EXP2:/58523C91:CON-3M_PAK100_2500-10".
+* Warning: component 'L2': board footprint 'CDRH125', netlist footprint 'SPARKFUN-PASSIVES_CDRH125'
 
-Info: Changing component path "EXP2:" to "/58523C91".
+* Warning: component 'U3': board footprint 'USD-SOCKET-PP', netlist footprint 'SPARKFUN-CONNECTORS_PETERMICROSDEBAY_USD-SOCKET-PP'
 
-Changing component "EXP2:/58523C91" pin "1" net name from "SD_MISO" to "/SD_MISO".
+* Warning: component 'JP5': board footprint '1X05_NO_SILK', netlist footprint 'SPARKFUN-CONNECTORS_1X05_NO_SILK'
 
-Changing component "EXP2:/58523C91" pin "2" net name from "SD_SCK" to "/SD_SCK".
+* Warning: component 'JP7': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "3" net name from "SD_WP-ENC-B-ON-RRD" to "/SD_WP-ENC-B-ON-RRD".
+* Warning: component 'JP6': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "4" net name from "SD-CS-ON-RRD" to "/SD-CS-ON-RRD".
+* Warning: component 'JP8': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "5" net name from "SD_IRQ-ENC-A-ON-RRD" to "/SD_IRQ-ENC-A-ON-RRD".
+* Warning: component 'JP9': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "6" net name from "SD_MOSI" to "/SD_MOSI".
+* Warning: component 'JP10': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "7" net name from "SD-CD-ON-RRD" to "/SD-CD-ON-RRD".
+* Warning: component 'JP11': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "8" net name from "SD_CD/KILL-ON-RRD" to "/SD_CD/KILL-ON-RRD".
+* Warning: component 'JP12': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "9" net name from "GND" to "/GND".
+* Warning: component 'JP13': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "EXP2:/58523C91" pin "10" net name from "" to "Net-(EXP2-Pad10)".
+* Warning: component 'JP14': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Info: Checking netlist component footprint "IC1:/585240DD:MICROBUILDER_LQFP100".
+* Warning: component 'JP15': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Info: Changing component path "IC1:" to "/585240DD".
+* Warning: component 'JP16': board footprint '1X01NS-KIT', netlist footprint 'SPARKFUN-CONNECTORS_1X01NS-KIT'
 
-Changing component "IC1:/585240DD" pin "75" net name from "STP1" to "/STP1".
+* Warning: component 'D8': board footprint 'SOD87', netlist footprint 'SEMICON-SMD-IPC_SOD87'
 
-Changing component "IC1:/585240DD" pin "74" net name from "STP2" to "/STP2".
+* Warning: component 'D11': board footprint 'SOD87', netlist footprint 'SEMICON-SMD-IPC_SOD87'
 
-Changing component "IC1:/585240DD" pin "73" net name from "STP3" to "/STP3".
+* Warning: component 'D10': board footprint 'SOD87', netlist footprint 'SEMICON-SMD-IPC_SOD87'
 
-Changing component "IC1:/585240DD" pin "72" net name from "GND" to "/GND".
+* Warning: component 'D9': board footprint 'SOD87', netlist footprint 'SEMICON-SMD-IPC_SOD87'
 
-Changing component "IC1:/585240DD" pin "71" net name from "3.3V" to "/3.3V".
+* Warning: component 'D12': board footprint 'SOD87', netlist footprint 'SEMICON-SMD-IPC_SOD87'
 
-Changing component "IC1:/585240DD" pin "70" net name from "STP4" to "/STP4".
+* Warning: component 'D7': board footprint 'SOD87', netlist footprint 'SEMICON-SMD-IPC_SOD87'
 
-Changing component "IC1:/585240DD" pin "69" net name from "PWM0_PSU_OUT" to "/PWM0_PSU_OUT".
+* Warning: component 'R51': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "68" net name from "PWM1_BED_HEATER" to "/PWM1_BED_HEATER".
+* Warning: component 'R77': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "67" net name from "P2.6_FAN_FET" to "/P2.6_FAN_FET".
+* Warning: component 'R18': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "66" net name from "P2.7_HOTEND_FET" to "/P2.7_HOTEND_FET".
+* Warning: component 'R17': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "65" net name from "STP5" to "/STP5".
+* Warning: component 'R15': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "64" net name from "P2.9" to "/P2.9".
+* Warning: component 'R14': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "63" net name from "SSEL1" to "/SSEL1".
+* Warning: component 'R13': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "62" net name from "SCK1" to "/SCK1".
+* Warning: component 'R12': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "61" net name from "MISO1" to "/MISO1".
+* Warning: component 'R11': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "60" net name from "MOSI1" to "/MOSI1".
+* Warning: component 'R10': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "59" net name from "EN3" to "/EN3".
+* Warning: component 'R9': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "58" net name from "DIR3" to "/DIR3".
+* Warning: component 'R8': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "57" net name from "EN4" to "/EN4".
+* Warning: component 'R7': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "56" net name from "DIR4" to "/DIR4".
+* Warning: component 'R3': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "55" net name from "GND" to "/GND".
+* Warning: component 'R2': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "54" net name from "3.3V" to "/3.3V".
+* Warning: component 'R29': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "53" net name from "ISP_BOOT" to "/ISP_BOOT".
+* Warning: component 'R1': board footprint 'R0603', netlist footprint 'RESISTOR_R0603'
 
-Changing component "IC1:/585240DD" pin "52" net name from "SD_CD/KILL-ON-RRD" to "/SD_CD/KILL-ON-RRD".
+* Warning: component 'R28': board footprint 'R0603', netlist footprint 'RESISTOR_R-US_R0603'
 
-Changing component "IC1:/585240DD" pin "51" net name from "PLAY" to "/PLAY".
+* Warning: component 'C67': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "1" net name from "JTAG-TDO" to "/JTAG-TDO".
+* Warning: component 'C1': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "2" net name from "JTAG-TDI" to "/JTAG-TDI".
+* Warning: component 'C7': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "3" net name from "JTAG-TMS" to "/JTAG-TMS".
+* Warning: component 'C17': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "4" net name from "JTAG-TRST" to "/JTAG-TRST".
+* Warning: component 'C18': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "5" net name from "JTAG-TCK" to "/JTAG-TCK".
+* Warning: component 'C19': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "6" net name from "TH4" to "/TH4".
+* Warning: component 'C20': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "7" net name from "TH3" to "/TH3".
+* Warning: component 'C21': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "8" net name from "TH2_BED" to "/TH2_BED".
+* Warning: component 'C22': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "9" net name from "TH1_HOTEND" to "/TH1_HOTEND".
+* Warning: component 'C23': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "10" net name from "AVCC" to "/AVCC".
+* Warning: component 'C24': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "11" net name from "AGND" to "/AGND".
+* Warning: component 'C25': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "12" net name from "AVCC" to "/AVCC".
+* Warning: component 'C28': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "13" net name from "" to "Net-(IC1-Pad13)".
+* Warning: component 'C44': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "14" net name from "RSTOUT" to "/RSTOUT".
+* Warning: component 'C64': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "15" net name from "AGND" to "/AGND".
+* Warning: component 'C65': board footprint 'C0603', netlist footprint 'RESISTOR_C0603'
 
-Changing component "IC1:/585240DD" pin "16" net name from "" to "Net-(IC1-Pad16)".
+* Warning: component 'RN1': board footprint '0603-ARV', netlist footprint 'RESISTOR-DIL_0603-ARV'
 
-Changing component "IC1:/585240DD" pin "17" net name from "RESET" to "/RESET".
+* Warning: component 'C26': board footprint 'E2,5-7', netlist footprint 'RCL_E2_5-7'
 
-Changing component "IC1:/585240DD" pin "18" net name from "" to "Net-(IC1-Pad18)".
+* Warning: component 'C27': board footprint 'E2,5-7', netlist footprint 'RCL_E2_5-7'
 
-Changing component "IC1:/585240DD" pin "19" net name from "3.3V" to "/3.3V".
+* Warning: component 'C16': board footprint 'E2,5-7', netlist footprint 'RCL_E2_5-7'
 
-Changing component "IC1:/585240DD" pin "20" net name from "BUZZER-RRD" to "/BUZZER-RRD".
+* Warning: component 'C15': board footprint 'E2,5-7', netlist footprint 'RCL_E2_5-7'
 
-Changing component "IC1:/585240DD" pin "21" net name from "P1_30_CLICK-ON-RRD" to "/P1_30_CLICK-ON-RRD".
+* Warning: component 'C2': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "22" net name from "N$1" to "/N$1".
+* Warning: component 'C3': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "23" net name from "N$2" to "/N$2".
+* Warning: component 'C4': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "24" net name from "SD-CS-ON-RRD" to "/SD-CS-ON-RRD".
+* Warning: component 'C5': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "25" net name from "SD-CD-ON-RRD" to "/SD-CD-ON-RRD".
+* Warning: component 'C6': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "26" net name from "SD_WP-ENC-B-ON-RRD" to "/SD_WP-ENC-B-ON-RRD".
+* Warning: component 'C8': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "27" net name from "SD_IRQ-ENC-A-ON-RRD" to "/SD_IRQ-ENC-A-ON-RRD".
+* Warning: component 'C9': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "28" net name from "3.3V" to "/3.3V".
+* Warning: component 'C10': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "29" net name from "USB_D+" to "/USB_D+".
+* Warning: component 'C11': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "30" net name from "USB_D-" to "/USB_D-".
+* Warning: component 'C12': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "31" net name from "GND" to "/GND".
+* Warning: component 'C13': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "32" net name from "LED1" to "/LED1".
+* Warning: component 'C14': board footprint 'C0603', netlist footprint 'RCL_C0603'
 
-Changing component "IC1:/585240DD" pin "33" net name from "LED2" to "/LED2".
+* Warning: component 'JP1': board footprint '2X07%2f90', netlist footprint 'PINHEAD_2X07_90'
 
-Changing component "IC1:/585240DD" pin "34" net name from "LED3" to "/LED3".
+* Warning: component 'D1': board footprint 'SMADIODE', netlist footprint 'MICROBUILDER_SMADIODE'
 
-Changing component "IC1:/585240DD" pin "35" net name from "LED4" to "/LED4".
+* Warning: component 'D3': board footprint 'SMADIODE', netlist footprint 'MICROBUILDER_SMADIODE'
 
-Changing component "IC1:/585240DD" pin "36" net name from "P1_22-3RD-SMALL-FET" to "/P1_22-3RD-SMALL-FET".
+* Warning: component 'Q2': board footprint 'CRYSTAL_3.2X2.5', netlist footprint 'MICROBUILDER_CRYSTAL_3.2X2.5'
 
-Changing component "IC1:/585240DD" pin "37" net name from "P1_23-3RD-LARGE-FET" to "/P1_23-3RD-LARGE-FET".
+* Warning: component 'LED1': board footprint 'CHIP-LED0805', netlist footprint 'LED_CHIP-LED0805'
 
-Changing component "IC1:/585240DD" pin "38" net name from "X_MIN" to "/X_MIN".
+* Warning: component 'LED2': board footprint 'CHIP-LED0805', netlist footprint 'LED_CHIP-LED0805'
 
-Changing component "IC1:/585240DD" pin "39" net name from "X_MAX" to "/X_MAX".
+* Warning: component 'LED3': board footprint 'CHIP-LED0805', netlist footprint 'LED_CHIP-LED0805'
 
-Changing component "IC1:/585240DD" pin "40" net name from "Y_MIN" to "/Y_MIN".
+* Warning: component 'LED4': board footprint 'CHIP-LED0805', netlist footprint 'LED_CHIP-LED0805'
 
-Changing component "IC1:/585240DD" pin "41" net name from "GND" to "/GND".
+* Warning: component 'LED5': board footprint 'CHIP-LED0805', netlist footprint 'LED_CHIP-LED0805'
 
-Changing component "IC1:/585240DD" pin "42" net name from "3.3V" to "/3.3V".
+* Warning: component 'LED9': board footprint 'CHIP-LED0805', netlist footprint 'LED_CHIP-LED0805'
 
-Changing component "IC1:/585240DD" pin "43" net name from "Y_MAX" to "/Y_MAX".
+* Warning: component 'R31': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "44" net name from "Z_MIN" to "/Z_MIN".
+* Warning: component 'R4': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "45" net name from "Z_MAX" to "/Z_MAX".
+* Warning: component 'R5': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "46" net name from "POT_SDA" to "/POT_SDA".
+* Warning: component 'R6': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "47" net name from "POT_SCL" to "/POT_SCL".
+* Warning: component 'R16': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "48" net name from "EN2" to "/EN2".
+* Warning: component 'R21': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "49" net name from "DIR2" to "/DIR2".
+* Warning: component 'R22': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "50" net name from "DIR5" to "/DIR5".
+* Warning: component 'R23': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "76" net name from "SD_MOSI" to "/SD_MOSI".
+* Warning: component 'R24': board footprint 'R0603', netlist footprint 'ADAFRUIT_R0603'
 
-Changing component "IC1:/585240DD" pin "77" net name from "SD_MISO" to "/SD_MISO".
+Error: No footprint defined for component 'JP3'.
 
-Changing component "IC1:/585240DD" pin "78" net name from "SD_SCK" to "/SD_SCK".
+Info: Checking netlist component footprint "C1:/5852183D:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "79" net name from "SD_CS" to "/SD_CS".
+Info: Checking netlist component footprint "C2:/58521905:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "80" net name from "DIR1" to "/DIR1".
+Info: Checking netlist component footprint "C3:/585219CD:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "81" net name from "EN1" to "/EN1".
+Info: Checking netlist component footprint "C4:/58521A95:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "82" net name from "PLAY_LED" to "/PLAY_LED".
+Info: Checking netlist component footprint "C5:/58521B5D:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "83" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "C6:/58521C25:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "84" net name from "3.3V" to "/3.3V".
+Info: Checking netlist component footprint "C7:/58521CED:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "85" net name from "EN5" to "/EN5".
+Info: Checking netlist component footprint "C8:/58521DB5:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "86" net name from "ENET_MDIO" to "/ENET_MDIO".
+Info: Checking netlist component footprint "C9:/58521E7D:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "87" net name from "ENET_MDC" to "/ENET_MDC".
+Info: Checking netlist component footprint "C10:/58521F45:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "88" net name from "ENET_REF_CLK" to "/ENET_REF_CLK".
+Info: Checking netlist component footprint "C11:/5852200D:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "89" net name from "ENET_RX_ER" to "/ENET_RX_ER".
+Info: Checking netlist component footprint "C12:/585220D5:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "90" net name from "ENET_RXD1" to "/ENET_RXD1".
+Info: Checking netlist component footprint "C13:/5852219D:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "91" net name from "ENET_RXD0" to "/ENET_RXD0".
+Info: Checking netlist component footprint "C14:/58522265:RCL_C0603".
 
-Changing component "IC1:/585240DD" pin "92" net name from "ENET_CRS" to "/ENET_CRS".
+Info: Checking netlist component footprint "C15:/5852232D:RCL_E2_5-7".
 
-Changing component "IC1:/585240DD" pin "93" net name from "ENET_TX_EN" to "/ENET_TX_EN".
+Info: Checking netlist component footprint "C16:/585223F5:RCL_E2_5-7".
 
-Changing component "IC1:/585240DD" pin "94" net name from "ENET_TXD1" to "/ENET_TXD1".
+Info: Checking netlist component footprint "C17:/585224BD:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "95" net name from "ENET_TXD0" to "/ENET_TXD0".
+Info: Checking netlist component footprint "C18:/58522585:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "96" net name from "3.3V" to "/3.3V".
+Info: Checking netlist component footprint "C19:/5852264D:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "97" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "C20:/58522715:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "98" net name from "TX_0" to "/TX_0".
+Info: Checking netlist component footprint "C21:/585227DD:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "99" net name from "RX_0" to "/RX_0".
+Info: Checking netlist component footprint "C22:/585228A5:RESISTOR_C0603".
 
-Changing component "IC1:/585240DD" pin "100" net name from "JTAG-RTCK" to "/JTAG-RTCK".
+Info: Checking netlist component footprint "C23:/5852296D:RESISTOR_C0603".
 
-Info: Checking netlist component footprint "IC2:/585241A5:LINEAR_TO263-5".
+Info: Checking netlist component footprint "C24:/58522A35:RESISTOR_C0603".
 
-Changing component "IC2:" value from "" to "~".
+Info: Checking netlist component footprint "C25:/58522AFD:RESISTOR_C0603".
 
-Info: Changing component path "IC2:" to "/585241A5".
+Info: Checking netlist component footprint "C26:/58522BC5:RCL_E2_5-7".
 
-Changing component "IC2:/585241A5" pin "6" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "C27:/58522C8D:RCL_E2_5-7".
 
-Changing component "IC2:/585241A5" pin "1" net name from "24V" to "/24V".
+Changing component "C27:/58522C8D" pin "+" net name from "/5VREG" to "5vreg".
 
-Changing component "IC2:/585241A5" pin "2" net name from "N$9" to "/N$9".
+Info: Checking netlist component footprint "C28:/58522D55:RESISTOR_C0603".
 
-Changing component "IC2:/585241A5" pin "3" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "C44:/58522E1D:RESISTOR_C0603".
 
-Changing component "IC2:/585241A5" pin "4" net name from "5VREG" to "/5VREG".
+Info: Checking netlist component footprint "C64:/58522EE5:RESISTOR_C0603".
 
-Changing component "IC2:/585241A5" pin "5" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "C65:/58522FAD:RESISTOR_C0603".
 
-Info: Checking netlist component footprint "IC5:/5852426D:V-REG_DPACK".
+Info: Checking netlist component footprint "C67:/58523075:RESISTOR_C0603".
 
-Info: Changing component path "IC5:" to "/5852426D".
+Info: Checking netlist component footprint "D1:/5852313D:MICROBUILDER_SMADIODE".
 
-Changing component "IC5:/5852426D" pin "4" net name from "3.3V" to "/3.3V".
+Info: Changing component path "D1:" to "/5852313D".
 
-Changing component "IC5:/5852426D" pin "1" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "D3:/585232CD:MICROBUILDER_SMADIODE".
 
-Info: Checking netlist component footprint "IC7:/58524335:MICROBUILDER_SOT23-5".
+Info: Changing component path "D3:" to "/585232CD".
 
-Changing component "IC7:" value from "" to "~".
+Changing component "D3:/585232CD" pin "A" net name from "5VREG" to "5vreg".
 
-Info: Changing component path "IC7:" to "/58524335".
+Info: Checking netlist component footprint "D7:/58523395:SEMICON-SMD-IPC_SOD87".
 
-Changing component "IC7:/58524335" pin "1" net name from "" to "Net-(IC7-Pad1)".
+Changing component "D7:" value from "" to "~".
 
-Changing component "IC7:/58524335" pin "2" net name from "N$77" to "/N$77".
+Info: Changing component path "D7:" to "/58523395".
 
-Changing component "IC7:/58524335" pin "3" net name from "GND" to "/GND".
+Changing component "D7:/58523395" pin "1" net name from "N$6" to "/N$6".
 
-Changing component "IC7:/58524335" pin "4" net name from "N$78" to "/N$78".
+Changing component "D7:/58523395" pin "2" net name from "X_MIN" to "/X_MIN".
 
-Changing component "IC7:/58524335" pin "5" net name from "3.3V" to "/3.3V".
+Info: Checking netlist component footprint "D8:/5852345D:SEMICON-SMD-IPC_SOD87".
 
-Info: Checking netlist component footprint "JP2:/585244C5:PINHEAD_1X30".
+Changing component "D8:" value from "" to "~".
 
-Changing component "JP2:" value from "" to "~".
+Info: Changing component path "D8:" to "/5852345D".
 
-Info: Changing component path "JP2:" to "/585244C5".
+Changing component "D8:/5852345D" pin "1" net name from "N$8" to "/N$8".
 
-Changing component "JP2:/585244C5" pin "1" net name from "SD_SCK" to "/SD_SCK".
+Changing component "D8:/5852345D" pin "2" net name from "X_MAX" to "/X_MAX".
 
-Changing component "JP2:/585244C5" pin "2" net name from "SD_MISO" to "/SD_MISO".
+Info: Checking netlist component footprint "D9:/58523525:SEMICON-SMD-IPC_SOD87".
 
-Changing component "JP2:/585244C5" pin "3" net name from "SD_MOSI" to "/SD_MOSI".
+Changing component "D9:" value from "" to "~".
 
-Changing component "JP2:/585244C5" pin "4" net name from "EN1" to "/EN1".
+Info: Changing component path "D9:" to "/58523525".
 
-Changing component "JP2:/585244C5" pin "5" net name from "DIR1" to "/DIR1".
+Changing component "D9:/58523525" pin "1" net name from "N$10" to "/N$10".
 
-Changing component "JP2:/585244C5" pin "6" net name from "STP1" to "/STP1".
+Changing component "D9:/58523525" pin "2" net name from "Y_MIN" to "/Y_MIN".
 
-Changing component "JP2:/585244C5" pin "7" net name from "EN2" to "/EN2".
+Info: Checking netlist component footprint "D10:/585235ED:SEMICON-SMD-IPC_SOD87".
 
-Changing component "JP2:/585244C5" pin "8" net name from "DIR2" to "/DIR2".
+Changing component "D10:" value from "" to "~".
 
-Changing component "JP2:/585244C5" pin "9" net name from "STP2" to "/STP2".
+Info: Changing component path "D10:" to "/585235ED".
 
-Changing component "JP2:/585244C5" pin "10" net name from "EN3" to "/EN3".
+Changing component "D10:/585235ED" pin "1" net name from "N$12" to "/N$12".
 
-Changing component "JP2:/585244C5" pin "11" net name from "DIR3" to "/DIR3".
+Changing component "D10:/585235ED" pin "2" net name from "Y_MAX" to "/Y_MAX".
 
-Changing component "JP2:/585244C5" pin "12" net name from "STP3" to "/STP3".
+Info: Checking netlist component footprint "D11:/585236B5:SEMICON-SMD-IPC_SOD87".
 
-Changing component "JP2:/585244C5" pin "13" net name from "EN4" to "/EN4".
+Changing component "D11:" value from "" to "~".
 
-Changing component "JP2:/585244C5" pin "14" net name from "DIR4" to "/DIR4".
+Info: Changing component path "D11:" to "/585236B5".
 
-Changing component "JP2:/585244C5" pin "15" net name from "STP4" to "/STP4".
+Changing component "D11:/585236B5" pin "1" net name from "N$15" to "/N$15".
 
-Changing component "JP2:/585244C5" pin "16" net name from "EN5" to "/EN5".
+Changing component "D11:/585236B5" pin "2" net name from "Z_MIN" to "/Z_MIN".
 
-Changing component "JP2:/585244C5" pin "17" net name from "DIR5" to "/DIR5".
+Info: Checking netlist component footprint "D12:/5852377D:SEMICON-SMD-IPC_SOD87".
 
-Changing component "JP2:/585244C5" pin "18" net name from "STP5" to "/STP5".
+Changing component "D12:" value from "" to "~".
 
-Changing component "JP2:/585244C5" pin "19" net name from "P1_23-3RD-LARGE-FET" to "/P1_23-3RD-LARGE-FET".
+Info: Changing component path "D12:" to "/5852377D".
 
-Changing component "JP2:/585244C5" pin "20" net name from "P1_22-3RD-SMALL-FET" to "/P1_22-3RD-SMALL-FET".
+Changing component "D12:/5852377D" pin "1" net name from "N$16" to "/N$16".
 
-Changing component "JP2:/585244C5" pin "21" net name from "PWM0_PSU_OUT" to "/PWM0_PSU_OUT".
+Changing component "D12:/5852377D" pin "2" net name from "Z_MAX" to "/Z_MAX".
 
-Changing component "JP2:/585244C5" pin "22" net name from "PWM1_BED_HEATER" to "/PWM1_BED_HEATER".
+Info: Checking netlist component footprint "EXP1:/58523845:SmoothieBrainz - next round:CON-3M_PAK100_2500-10".
 
-Changing component "JP2:/585244C5" pin "23" net name from "P2.6_FAN_FET" to "/P2.6_FAN_FET".
+Info: Checking netlist component footprint "EXP2:/58523C91:SmoothieBrainz - next round:CON-3M_PAK100_2500-10".
 
-Changing component "JP2:/585244C5" pin "24" net name from "P2.7_HOTEND_FET" to "/P2.7_HOTEND_FET".
+Info: Checking netlist component footprint "IC1:/585240DD:SmoothieBrainz - next round:MICROBUILDER_LQFP100".
 
-Changing component "JP2:/585244C5" pin "25" net name from "24V" to "/24V".
+Info: Checking netlist component footprint "IC2:/585241A5:SmoothieBrainz - next round:LINEAR_TO263-5".
 
-Changing component "JP2:/585244C5" pin "26" net name from "24V" to "/24V".
+Changing component "IC2:/585241A5" pin "4" net name from "/5VREG" to "5vreg".
 
-Changing component "JP2:/585244C5" pin "27" net name from "5VREG" to "/5VREG".
+Info: Checking netlist component footprint "IC5:/5852426D:SmoothieBrainz - next round:V-REG_DPACK".
 
-Changing component "JP2:/585244C5" pin "28" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "IC7:/58524335:SmoothieBrainz - next round:MICROBUILDER_SOT23-5".
 
-Changing component "JP2:/585244C5" pin "29" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "JP1:/585243FD:PINHEAD_2X07_90".
 
-Changing component "JP2:/585244C5" pin "30" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "JP2:/585244C5:SmoothieBrainz - next round:PINHEAD_1X30".
 
-Info: Checking netlist component footprint "Q1:/58525AA5:TRANSISTOR-FET_SC74_INFINEON".
+Changing component "JP2:/585244C5" pin "27" net name from "/5VREG" to "5vreg".
 
-Info: Changing component path "Q1:" to "/58525AA5".
+Info: Checking netlist component footprint "JP3:/5852458D:".
 
-Changing component "Q1:/58525AA5" pin "1" net name from "N$51" to "/N$51".
+Changing component "JP3:" value from "" to "SPARKFUN-CONNECTORS_M08".
 
-Changing component "Q1:/58525AA5" pin "2" net name from "N$51" to "/N$51".
+Info: Changing component path "JP3:" to "/5852458D".
 
-Changing component "Q1:/58525AA5" pin "3" net name from "P2.9" to "/P2.9".
+Changing component "JP3:/5852458D" pin "1" net name from "JTAG-RTCK" to "/JTAG-RTCK".
 
-Changing component "Q1:/58525AA5" pin "4" net name from "3.3V" to "/3.3V".
+Changing component "JP3:/5852458D" pin "2" net name from "RESET" to "/RESET".
 
-Changing component "Q1:/58525AA5" pin "5" net name from "N$51" to "/N$51".
+Changing component "JP3:/5852458D" pin "3" net name from "RSTOUT" to "/RSTOUT".
 
-Changing component "Q1:/58525AA5" pin "6" net name from "N$51" to "/N$51".
+Changing component "JP3:/5852458D" pin "4" net name from "JTAG-TCK" to "/JTAG-TCK".
 
-Info: Checking netlist component footprint "SW1:/58527FC1:DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE".
+Changing component "JP3:/5852458D" pin "5" net name from "JTAG-TRST" to "/JTAG-TRST".
 
-Info: Changing component path "SW1:" to "/58527FC1".
+Changing component "JP3:/5852458D" pin "6" net name from "JTAG-TMS" to "/JTAG-TMS".
 
-Changing component "SW1:/58527FC1" pin "3" net name from "" to "Net-(SW1-Pad3)".
+Changing component "JP3:/5852458D" pin "7" net name from "JTAG-TDI" to "/JTAG-TDI".
 
-Changing component "SW1:/58527FC1" pin "4" net name from "" to "Net-(SW1-Pad4)".
+Changing component "JP3:/5852458D" pin "8" net name from "JTAG-TDO" to "/JTAG-TDO".
 
-Changing component "SW1:/58527FC1" pin "1" net name from "RESET" to "/RESET".
+Info: Checking netlist component footprint "JP5:/58524655:SPARKFUN-CONNECTORS_1X05_NO_SILK".
 
-Changing component "SW1:/58527FC1" pin "2" net name from "GND" to "/GND".
+Changing component "JP5:" value from "" to "1".
 
-Info: Checking netlist component footprint "SW3:/58528089:DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE".
+Info: Changing component path "JP5:" to "/58524655".
 
-Info: Changing component path "SW3:" to "/58528089".
+Changing component "JP5:/58524655" pin "1" net name from "RTS" to "/RTS".
 
-Changing component "SW3:/58528089" pin "3" net name from "" to "Net-(SW3-Pad3)".
+Changing component "JP5:/58524655" pin "2" net name from "TX_FT" to "/TX_FT".
 
-Changing component "SW3:/58528089" pin "4" net name from "" to "Net-(SW3-Pad4)".
+Changing component "JP5:/58524655" pin "3" net name from "RX_FT" to "/RX_FT".
 
-Changing component "SW3:/58528089" pin "1" net name from "PLAY" to "/PLAY".
+Changing component "JP5:/58524655" pin "4" net name from "N$23" to "/N$23".
 
-Changing component "SW3:/58528089" pin "2" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "JP6:/5852471D:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Info: Checking netlist component footprint "U$2:/58528151:ESP8266-ESP12_ESP8266-ESP12".
+Changing component "JP6:" value from "" to "M01".
 
-Info: Changing component path "U$2:" to "/58528151".
+Info: Changing component path "JP6:" to "/5852471D".
 
-Changing component "U$2:/58528151" pin "16" net name from "3.3V" to "/3.3V".
+Info: Checking netlist component footprint "JP7:/585247E5:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U$2:/58528151" pin "15" net name from "ISP_BOOT" to "/ISP_BOOT".
+Changing component "JP7:" value from "" to "M01".
 
-Changing component "U$2:/58528151" pin "14" net name from "12" to "/12".
+Info: Changing component path "JP7:" to "/585247E5".
 
-Changing component "U$2:/58528151" pin "13" net name from "14" to "/14".
+Info: Checking netlist component footprint "JP8:/585248AD:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U$2:/58528151" pin "12" net name from "16" to "/16".
+Changing component "JP8:" value from "" to "M01".
 
-Changing component "U$2:/58528151" pin "11" net name from "N$18" to "/N$18".
+Info: Changing component path "JP8:" to "/585248AD".
 
-Changing component "U$2:/58528151" pin "10" net name from "ADC" to "/ADC".
+Info: Checking netlist component footprint "JP9:/58524975:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U$2:/58528151" pin "9" net name from "RESET1" to "/RESET1".
+Changing component "JP9:" value from "" to "M01".
 
-Changing component "U$2:/58528151" pin "1" net name from "GND" to "/GND".
+Info: Changing component path "JP9:" to "/58524975".
 
-Changing component "U$2:/58528151" pin "2" net name from "15" to "/15".
+Info: Checking netlist component footprint "JP10:/58524A3D:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U$2:/58528151" pin "3" net name from "2" to "/2".
+Changing component "JP10:" value from "" to "M01".
 
-Changing component "U$2:/58528151" pin "4" net name from "RTS" to "/RTS".
+Info: Changing component path "JP10:" to "/58524A3D".
 
-Changing component "U$2:/58528151" pin "7" net name from "ESPRX" to "/ESPRX".
+Info: Checking netlist component footprint "JP11:/58524B05:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U$2:/58528151" pin "8" net name from "ESPTX" to "/ESPTX".
+Changing component "JP11:" value from "" to "M01".
 
-Info: Checking netlist component footprint "U2:/585282E1:SERIALPORTBLUETOOTH_BLUETOOTH_SMD".
+Info: Changing component path "JP11:" to "/58524B05".
 
-Info: Changing component path "U2:" to "/585282E1".
+Info: Checking netlist component footprint "JP12:/58524BCD:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U2:/585282E1" pin "1" net name from "ESPTX" to "/ESPTX".
+Changing component "JP12:" value from "" to "M01".
 
-Changing component "U2:/585282E1" pin "2" net name from "ESPRX" to "/ESPRX".
+Info: Changing component path "JP12:" to "/58524BCD".
 
-Changing component "U2:/585282E1" pin "3" net name from "" to "Net-(U2-Pad3)".
+Info: Checking netlist component footprint "JP13:/58524C95:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U2:/585282E1" pin "4" net name from "" to "Net-(U2-Pad4)".
+Changing component "JP13:" value from "" to "M01".
 
-Changing component "U2:/585282E1" pin "5" net name from "" to "Net-(U2-Pad5)".
+Info: Changing component path "JP13:" to "/58524C95".
 
-Changing component "U2:/585282E1" pin "6" net name from "" to "Net-(U2-Pad6)".
+Info: Checking netlist component footprint "JP14:/58524D5D:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U2:/585282E1" pin "7" net name from "" to "Net-(U2-Pad7)".
+Changing component "JP14:" value from "" to "M01".
 
-Changing component "U2:/585282E1" pin "8" net name from "" to "Net-(U2-Pad8)".
+Info: Changing component path "JP14:" to "/58524D5D".
 
-Changing component "U2:/585282E1" pin "9" net name from "" to "Net-(U2-Pad9)".
+Info: Checking netlist component footprint "JP15:/58524E25:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U2:/585282E1" pin "10" net name from "" to "Net-(U2-Pad10)".
+Changing component "JP15:" value from "" to "M01".
 
-Changing component "U2:/585282E1" pin "11" net name from "" to "Net-(U2-Pad11)".
+Info: Changing component path "JP15:" to "/58524E25".
 
-Changing component "U2:/585282E1" pin "12" net name from "3.3V" to "/3.3V".
+Info: Checking netlist component footprint "JP16:/58524EED:SPARKFUN-CONNECTORS_1X01NS-KIT".
 
-Changing component "U2:/585282E1" pin "13" net name from "GND" to "/GND".
+Changing component "JP16:" value from "" to "M01".
 
-Changing component "U2:/585282E1" pin "22" net name from "" to "Net-(U2-Pad22)".
+Info: Changing component path "JP16:" to "/58524EED".
 
-Changing component "U2:/585282E1" pin "23" net name from "" to "Net-(U2-Pad23)".
+Info: Checking netlist component footprint "L1:/58524FB5:SPARKFUN_0603".
 
-Changing component "U2:/585282E1" pin "24" net name from "" to "Net-(U2-Pad24)".
+Info: Checking netlist component footprint "L2:/5852507D:SPARKFUN-PASSIVES_CDRH125".
 
-Changing component "U2:/585282E1" pin "25" net name from "" to "Net-(U2-Pad25)".
+Changing component "L2:/5852507D" pin "2" net name from "/5VREG" to "5vreg".
 
-Changing component "U2:/585282E1" pin "26" net name from "" to "Net-(U2-Pad26)".
+Info: Checking netlist component footprint "LED1:/58525145:LED_CHIP-LED0805".
 
-Changing component "U2:/585282E1" pin "27" net name from "" to "Net-(U2-Pad27)".
+Info: Checking netlist component footprint "LED2:/5852520D:LED_CHIP-LED0805".
 
-Changing component "U2:/585282E1" pin "28" net name from "" to "Net-(U2-Pad28)".
+Info: Checking netlist component footprint "LED3:/585252D5:LED_CHIP-LED0805".
 
-Changing component "U2:/585282E1" pin "29" net name from "" to "Net-(U2-Pad29)".
+Info: Checking netlist component footprint "LED4:/5852539D:LED_CHIP-LED0805".
 
-Changing component "U2:/585282E1" pin "30" net name from "" to "Net-(U2-Pad30)".
+Info: Checking netlist component footprint "LED5:/58525465:LED_CHIP-LED0805".
 
-Changing component "U2:/585282E1" pin "31" net name from "" to "Net-(U2-Pad31)".
+Info: Checking netlist component footprint "LED9:/5852552D:LED_CHIP-LED0805".
 
-Changing component "U2:/585282E1" pin "32" net name from "" to "Net-(U2-Pad32)".
+Info: Checking netlist component footprint "Q1:/58525AA5:SmoothieBrainz - next round:TRANSISTOR-FET_SC74_INFINEON".
 
-Changing component "U2:/585282E1" pin "33" net name from "" to "Net-(U2-Pad33)".
+Info: Checking netlist component footprint "Q2:/58525B6D:MICROBUILDER_CRYSTAL_3.2X2.5".
 
-Changing component "U2:/585282E1" pin "34" net name from "" to "Net-(U2-Pad34)".
+Info: Checking netlist component footprint "R1:/58525C35:RESISTOR_R0603".
 
-Changing component "U2:/585282E1" pin "14" net name from "" to "Net-(U2-Pad14)".
+Info: Checking netlist component footprint "R2:/58525CFD:RESISTOR_R0603".
 
-Changing component "U2:/585282E1" pin "15" net name from "" to "Net-(U2-Pad15)".
+Info: Checking netlist component footprint "R3:/58525DC5:RESISTOR_R0603".
 
-Changing component "U2:/585282E1" pin "16" net name from "" to "Net-(U2-Pad16)".
+Info: Checking netlist component footprint "R4:/58525E8D:ADAFRUIT_R0603".
 
-Changing component "U2:/585282E1" pin "17" net name from "" to "Net-(U2-Pad17)".
+Info: Changing component path "R4:" to "/58525E8D".
 
-Changing component "U2:/585282E1" pin "18" net name from "" to "Net-(U2-Pad18)".
+Changing component "R4:/58525E8D" pin "1" net name from "2" to "/2".
 
-Changing component "U2:/585282E1" pin "19" net name from "" to "Net-(U2-Pad19)".
+Changing component "R4:/58525E8D" pin "2" net name from "3.3V" to "+3V3".
 
-Changing component "U2:/585282E1" pin "20" net name from "" to "Net-(U2-Pad20)".
+Info: Checking netlist component footprint "R5:/58525F55:ADAFRUIT_R0603".
 
-Changing component "U2:/585282E1" pin "21" net name from "" to "Net-(U2-Pad21)".
+Info: Changing component path "R5:" to "/58525F55".
 
-Info: Checking netlist component footprint "VP_0:/58528471:VPAD_VPAC0".
+Changing component "R5:/58525F55" pin "1" net name from "3.3V" to "+3V3".
 
-Info: Changing component path "VP_0:" to "/58528471".
+Changing component "R5:/58525F55" pin "2" net name from "Z_MAX" to "/Z_MAX".
 
-Changing component "VP_0:/58528471" pin "VP" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "R6:/5852601D:ADAFRUIT_R0603".
 
-Info: Checking netlist component footprint "VP_1:/58528539:VPAD_VPAC0".
+Info: Changing component path "R6:" to "/5852601D".
 
-Info: Changing component path "VP_1:" to "/58528539".
+Changing component "R6:/5852601D" pin "1" net name from "3.3V" to "+3V3".
 
-Changing component "VP_1:/58528539" pin "VP" net name from "GND" to "/GND".
+Changing component "R6:/5852601D" pin "2" net name from "Z_MIN" to "/Z_MIN".
 
-Info: Checking netlist component footprint "VP_2:/58528601:VPAD_VPAC0".
+Info: Checking netlist component footprint "R7:/585260E5:RESISTOR_R0603".
 
-Info: Changing component path "VP_2:" to "/58528601".
+Info: Checking netlist component footprint "R8:/585261AD:RESISTOR_R0603".
 
-Changing component "VP_2:/58528601" pin "VP" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "R9:/58526275:RESISTOR_R0603".
 
-Info: Checking netlist component footprint "VP_3:/585286C9:VPAD_VPAC0".
+Info: Checking netlist component footprint "R10:/5852633D:RESISTOR_R0603".
 
-Info: Changing component path "VP_3:" to "/585286C9".
+Info: Checking netlist component footprint "R11:/58526405:RESISTOR_R0603".
 
-Changing component "VP_3:/585286C9" pin "VP" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "R12:/585264CD:RESISTOR_R0603".
 
-Info: Checking netlist component footprint "VP_4:/58528791:VPAD_VPAC0".
+Info: Checking netlist component footprint "R13:/58526595:RESISTOR_R0603".
 
-Info: Changing component path "VP_4:" to "/58528791".
+Info: Checking netlist component footprint "R14:/5852665D:RESISTOR_R0603".
 
-Changing component "VP_4:/58528791" pin "VP" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "R15:/58526725:RESISTOR_R0603".
 
-Info: Checking netlist component footprint "X1:/58528921:JT-CON-PHOENIX-3.81_MC1.5_6-G-3.81".
+Info: Checking netlist component footprint "R16:/585267ED:ADAFRUIT_R0603".
 
-Changing component "X1:" value from "" to "~".
+Info: Changing component path "R16:" to "/585267ED".
 
-Info: Changing component path "X1:" to "/58528921".
+Changing component "R16:/585267ED" pin "1" net name from "RTS" to "/RTS".
 
-Changing component "X1:/58528921" pin "1" net name from "TH3" to "/TH3".
+Changing component "R16:/585267ED" pin "2" net name from "3.3V" to "+3V3".
 
-Changing component "X1:/58528921" pin "2" net name from "AGND" to "/AGND".
+Info: Checking netlist component footprint "R17:/585268B5:RESISTOR_R0603".
 
-Changing component "X1:/58528921" pin "6" net name from "AGND" to "/AGND".
+Info: Checking netlist component footprint "R18:/5852697D:RESISTOR_R0603".
 
-Changing component "X1:/58528921" pin "3" net name from "TH2_BED" to "/TH2_BED".
+Info: Checking netlist component footprint "R21:/58526A45:ADAFRUIT_R0603".
 
-Changing component "X1:/58528921" pin "4" net name from "AGND" to "/AGND".
+Info: Changing component path "R21:" to "/58526A45".
 
-Changing component "X1:/58528921" pin "5" net name from "TH1_HOTEND" to "/TH1_HOTEND".
+Changing component "R21:/58526A45" pin "1" net name from "3.3V" to "+3V3".
 
-Info: Checking netlist component footprint "XMN88:/58528CA5:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+Changing component "R21:/58526A45" pin "2" net name from "Y_MAX" to "/Y_MAX".
 
-Changing component "XMN88:" value from "" to "~".
+Info: Checking netlist component footprint "R22:/58526B0D:ADAFRUIT_R0603".
 
-Info: Changing component path "XMN88:" to "/58528CA5".
+Info: Changing component path "R22:" to "/58526B0D".
 
-Changing component "XMN88:/58528CA5" pin "1" net name from "N$6" to "/N$6".
+Changing component "R22:/58526B0D" pin "1" net name from "3.3V" to "+3V3".
 
-Changing component "XMN88:/58528CA5" pin "2" net name from "GND" to "/GND".
+Changing component "R22:/58526B0D" pin "2" net name from "Y_MIN" to "/Y_MIN".
 
-Changing component "XMN88:/58528CA5" pin "3" net name from "24V" to "/24V".
+Info: Checking netlist component footprint "R23:/58526BD5:ADAFRUIT_R0603".
 
-Info: Checking netlist component footprint "XMX88:/58528E35:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+Info: Changing component path "R23:" to "/58526BD5".
 
-Changing component "XMX88:" value from "" to "~".
+Changing component "R23:/58526BD5" pin "1" net name from "3.3V" to "+3V3".
 
-Info: Changing component path "XMX88:" to "/58528E35".
+Changing component "R23:/58526BD5" pin "2" net name from "X_MAX" to "/X_MAX".
 
-Changing component "XMX88:/58528E35" pin "1" net name from "N$8" to "/N$8".
+Info: Checking netlist component footprint "R24:/58526C9D:ADAFRUIT_R0603".
 
-Changing component "XMX88:/58528E35" pin "2" net name from "GND" to "/GND".
+Info: Changing component path "R24:" to "/58526C9D".
 
-Changing component "XMX88:/58528E35" pin "3" net name from "24V" to "/24V".
+Changing component "R24:/58526C9D" pin "1" net name from "3.3V" to "+3V3".
 
-Info: Checking netlist component footprint "YMN88:/58528FC5:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+Changing component "R24:/58526C9D" pin "2" net name from "X_MIN" to "/X_MIN".
 
-Changing component "YMN88:" value from "" to "~".
+Info: Checking netlist component footprint "R28:/58526D65:RESISTOR_R-US_R0603".
 
-Info: Changing component path "YMN88:" to "/58528FC5".
+Info: Changing component path "R28:" to "/58526D65".
 
-Changing component "YMN88:/58528FC5" pin "1" net name from "N$10" to "/N$10".
+Changing component "R28:/58526D65" pin "1" net name from "3.3V" to "+3V3".
 
-Changing component "YMN88:/58528FC5" pin "2" net name from "GND" to "/GND".
+Changing component "R28:/58526D65" pin "2" net name from "N$18" to "/N$18".
 
-Changing component "YMN88:/58528FC5" pin "3" net name from "24V" to "/24V".
+Info: Checking netlist component footprint "R29:/58526E2D:RESISTOR_R0603".
 
-Info: Checking netlist component footprint "YMX88:/58529155:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+Info: Changing component path "R29:" to "/58526E2D".
 
-Changing component "YMX88:" value from "" to "~".
+Changing component "R29:/58526E2D" pin "1" net name from "3.3V" to "+3V3".
 
-Info: Changing component path "YMX88:" to "/58529155".
+Changing component "R29:/58526E2D" pin "2" net name from "RESET1" to "/RESET1".
 
-Changing component "YMX88:/58529155" pin "1" net name from "N$12" to "/N$12".
+Info: Checking netlist component footprint "R31:/58526EF5:ADAFRUIT_R0603".
 
-Changing component "YMX88:/58529155" pin "2" net name from "GND" to "/GND".
+Info: Changing component path "R31:" to "/58526EF5".
 
-Changing component "YMX88:/58529155" pin "3" net name from "24V" to "/24V".
+Changing component "R31:/58526EF5" pin "1" net name from "15" to "/15".
 
-Info: Checking netlist component footprint "ZMN88:/585292E5:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+Info: Checking netlist component footprint "R51:/58526FBD:RESISTOR_R0603".
 
-Changing component "ZMN88:" value from "" to "~".
+Info: Checking netlist component footprint "R77:/58527085:RESISTOR_R0603".
 
-Info: Changing component path "ZMN88:" to "/585292E5".
+Info: Checking netlist component footprint "RN1:/5852714D:RESISTOR-DIL_0603-ARV".
 
-Changing component "ZMN88:/585292E5" pin "1" net name from "N$15" to "/N$15".
+Info: Checking netlist component footprint "S1:/585272DD:SPARKFUN_TACTILE_SWITCH_SMD".
 
-Changing component "ZMN88:/585292E5" pin "2" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "S2:/585273A5:SPARKFUN_TACTILE_SWITCH_SMD".
 
-Changing component "ZMN88:/585292E5" pin "3" net name from "24V" to "/24V".
+Info: Checking netlist component footprint "SJ1:/5852746D:SPARKFUN_SJ_3".
 
-Info: Checking netlist component footprint "ZMX88:/58529475:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+Changing component "SJ1:" value from "" to "1".
 
-Changing component "ZMX88:" value from "" to "~".
+Info: Changing component path "SJ1:" to "/5852746D".
 
-Info: Changing component path "ZMX88:" to "/58529475".
+Changing component "SJ1:/5852746D" pin "1" net name from "3.3V" to "+3V3".
 
-Changing component "ZMX88:/58529475" pin "1" net name from "N$16" to "/N$16".
+Changing component "SJ1:/5852746D" pin "2" net name from "N$23" to "/N$23".
 
-Changing component "ZMX88:/58529475" pin "2" net name from "GND" to "/GND".
+Info: Checking netlist component footprint "SJ2:/58527535:SPARKFUN-RETIRED_SJ_2S".
 
-Changing component "ZMX88:/58529475" pin "3" net name from "24V" to "/24V".
+Info: Changing component path "SJ2:" to "/58527535".
+
+Changing component "SJ2:/58527535" pin "1" net name from "RX_FT" to "/RX_FT".
+
+Changing component "SJ2:/58527535" pin "2" net name from "RX_0" to "/RX_0".
+
+Info: Checking netlist component footprint "SJ3:/585275FD:SPARKFUN-RETIRED_SJ_2S".
+
+Info: Changing component path "SJ3:" to "/585275FD".
+
+Changing component "SJ3:/585275FD" pin "1" net name from "TX_FT" to "/TX_FT".
+
+Changing component "SJ3:/585275FD" pin "2" net name from "TX_0" to "/TX_0".
+
+Info: Checking netlist component footprint "SJ4:/585276C5:SPARKFUN-RETIRED_SJ_2S".
+
+Info: Changing component path "SJ4:" to "/585276C5".
+
+Changing component "SJ4:/585276C5" pin "1" net name from "RX_FT" to "/RX_FT".
+
+Changing component "SJ4:/585276C5" pin "2" net name from "ESPTX" to "/ESPTX".
+
+Info: Checking netlist component footprint "SJ5:/5852778D:SPARKFUN-RETIRED_SJ_2S".
+
+Info: Changing component path "SJ5:" to "/5852778D".
+
+Changing component "SJ5:/5852778D" pin "1" net name from "TX_FT" to "/TX_FT".
+
+Changing component "SJ5:/5852778D" pin "2" net name from "ESPRX" to "/ESPRX".
+
+Info: Checking netlist component footprint "SJ6:/58527855:SPARKFUN-RETIRED_SJ_2S".
+
+Info: Changing component path "SJ6:" to "/58527855".
+
+Changing component "SJ6:/58527855" pin "1" net name from "RX_0" to "/RX_0".
+
+Changing component "SJ6:/58527855" pin "2" net name from "ESPTX" to "/ESPTX".
+
+Info: Checking netlist component footprint "SJ7:/5852791D:SPARKFUN-RETIRED_SJ_2S".
+
+Info: Changing component path "SJ7:" to "/5852791D".
+
+Changing component "SJ7:/5852791D" pin "1" net name from "TX_0" to "/TX_0".
+
+Changing component "SJ7:/5852791D" pin "2" net name from "ESPRX" to "/ESPRX".
+
+Info: Checking netlist component footprint "SW1:/58527FC1:SmoothieBrainz - next round:DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE".
+
+Info: Checking netlist component footprint "SW3:/58528089:SmoothieBrainz - next round:DP_DEVICES_SW_TACT_STANDARD_RIGHT_ANGLE".
+
+Info: Checking netlist component footprint "U$2:/58528151:SmoothieBrainz - next round:ESP8266-ESP12_ESP8266-ESP12".
+
+Info: Checking netlist component footprint "U2:/585282E1:SmoothieBrainz - next round:SERIALPORTBLUETOOTH_BLUETOOTH_SMD".
+
+Info: Checking netlist component footprint "U3:/585283A9:SPARKFUN-CONNECTORS_PETERMICROSDEBAY_USD-SOCKET-PP".
+
+Info: Checking netlist component footprint "VP_0:/58528471:SmoothieBrainz - next round:VPAD_VPAC0".
+
+Info: Checking netlist component footprint "VP_1:/58528539:SmoothieBrainz - next round:VPAD_VPAC0".
+
+Info: Checking netlist component footprint "VP_2:/58528601:SmoothieBrainz - next round:VPAD_VPAC0".
+
+Info: Checking netlist component footprint "VP_3:/585286C9:SmoothieBrainz - next round:VPAD_VPAC0".
+
+Info: Checking netlist component footprint "VP_4:/58528791:SmoothieBrainz - next round:VPAD_VPAC0".
+
+Info: Checking netlist component footprint "X1:/58528921:SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_6-G-3.81".
+
+Info: Checking netlist component footprint "X14:/58528BDD:SPARKFUN_USB-B-PTH".
+
+Changing component "X14:/58528BDD" pin "GND" net name from "/VUSB" to "VUSB".
+
+Info: Checking netlist component footprint "XMN88:/58528CA5:SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+
+Info: Checking netlist component footprint "XMX88:/58528E35:SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+
+Info: Checking netlist component footprint "YMN88:/58528FC5:SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+
+Info: Checking netlist component footprint "YMX88:/58529155:SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+
+Info: Checking netlist component footprint "ZMN88:/585292E5:SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+
+Info: Checking netlist component footprint "ZMX88:/58529475:SmoothieBrainz - next round:JT-CON-PHOENIX-3.81_MC1.5_3-G-3.81".
+
+Error: Component 'LED1' pad 'A@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED1' pad 'C@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED2' pad 'A@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED2' pad 'C@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED3' pad 'A@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED3' pad 'C@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED4' pad 'A@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED4' pad 'C@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED5' pad 'A@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED5' pad 'C@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED9' pad 'A@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'LED9' pad 'C@1' not found in footprint 'CHIP-LED0805'
+
+Error: Component 'S1' pad 'P$2' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'S1' pad 'P$1' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'S1' pad 'P$3' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'S1' pad 'P$4' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'S2' pad 'P$1' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'S2' pad 'P$2' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'S2' pad 'P$3' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'S2' pad 'P$4' not found in footprint 'TACTILE_SWITCH_SMD'
+
+Error: Component 'U3' pad 'GND3' not found in footprint 'USD-SOCKET-PP'
 
 Warning: Copper zone (net name ''): net has no pads connected.
 Warning: Copper zone (net name ''): net has no pads connected.
