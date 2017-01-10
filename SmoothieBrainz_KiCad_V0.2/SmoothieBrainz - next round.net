@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:/Users/aaron.keith/Documents/CAD/Smoothieboards/Smoothiebrainz/SmoothieBrainz_KiCad_V0.2/SmoothieBrainz - next round.sch")
-    (date "10/01/2017 10:55:17 a.m.")
+    (date "10/01/2017 8:18:47 p.m.")
     (tool "Eeschema 4.0.3-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
