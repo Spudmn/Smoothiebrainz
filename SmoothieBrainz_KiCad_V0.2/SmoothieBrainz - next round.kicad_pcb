@@ -7681,7 +7681,7 @@
   (segment (start 178.9011 118.4516) (end 178.9011 116.3736) (width 0.6096) (layer Top) (net 151) (tstamp 6699C40))
   (segment (start 178.9011 116.3736) (end 178.9221 116.3526) (width 0.4064) (layer Top) (net 151) (tstamp 669A5C0))
   (segment (start 180.6111 136.9136) (end 180.7011 136.9036) (width 0.4064) (layer Bottom) (net 151) (tstamp 669AF40))
-  (via (at 180.7011 136.9036) (size 0.254) (drill 0.5) (layers Top Bottom) (net 151) (tstamp 669B8C0))
+  (via (at 180.7011 136.9036) (size 0.8048) (drill 0.5) (layers Top Bottom) (net 151) (tstamp 669B8C0))
   (segment (start 180.7011 136.9036) (end 180.6011 136.9036) (width 0.4064) (layer Top) (net 151) (tstamp 669C110))
   (segment (start 180.6011 136.9036) (end 180.6011 130.9036) (width 0.6096) (layer Top) (net 151) (tstamp 669CA90))
   (segment (start 180.6011 130.9036) (end 179.3011 129.6036) (width 0.6096) (layer Top) (net 151) (tstamp 669D410))
