@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=Banana_SmoothieBrainz
+LibName1=Banana_Smoothie
 LibName2=power
 LibName3=Oscillators
 LibName4=logo
