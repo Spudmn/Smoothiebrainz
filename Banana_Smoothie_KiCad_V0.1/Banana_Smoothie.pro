@@ -1,4 +1,4 @@
-update=16/01/2017 1:07:28 p.m.
+update=21/01/2017 6:57:25 a.m.
 version=1
 last_client=kicad
 [pcbnew]
@@ -34,3 +34,4 @@ LibName4=logo
 LibName5=device
 LibName6=Banana_Smoothie-cache
 LibName7=Banana_Smoothie_PWR
+LibName8=conn
